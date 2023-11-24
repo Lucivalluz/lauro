@@ -1,0 +1,34 @@
+* {
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    outline: none;
+}
+h1{
+    margin-left: 450px;
+}
+button{
+    
+    width: 200px;
+    height: 90px;
+    border-radius: 30px;
+    font-size: 30px;
+}
+.button{
+    margin-left: 250px;
+}
+.img1{
+    margin-left: 400px;
+    width: 600px;
+}
+.img2{
+    width: 1300px;
+    margin-left: 100px;
+}
+.title{
+    margin-left: 400px;
+}
+.centro{
+    width: 300px;
+}
